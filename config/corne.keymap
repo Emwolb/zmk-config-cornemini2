@@ -82,6 +82,11 @@
             bindings = <&kp APOS>;
             key-positions = <21 22>;
         };
+
+        dash {
+            bindings = <&kp MINUS>;
+            key-positions = <9 10>;
+        };
     };
 
     //
