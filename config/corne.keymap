@@ -177,7 +177,7 @@
         layer_6 {
             bindings = <
 &trans  &trans     &kp LC(W)  &trans     &kp LG(LS(S))  &trans           &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &kp LC(A)  &trans     &trans     &trans         &trans           &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp LC(A)  &trans     &trans     &trans         &kp LC(B)        &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &kp LC(Z)  &kp LC(X)  &kp LC(C)  &kp LC(V)      &kp LC(LS(V))    &trans  &trans  &trans  &trans  &trans  &trans
                               &trans     &trans         &trans           &trans  &trans  &trans
             >;
